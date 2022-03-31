@@ -2,6 +2,7 @@
 
 layout: slide
 
+L&T
 title: "Welcome to our second slide!"
 
 ---
